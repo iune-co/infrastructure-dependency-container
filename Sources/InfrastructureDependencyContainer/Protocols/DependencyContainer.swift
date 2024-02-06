@@ -1,1 +1,4 @@
-public protocol DependencyContainer: Registrar, Resolver {}
+public protocol DependencyContainer: Registrar, Resolver 
+{
+    
+}
